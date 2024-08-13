@@ -12,7 +12,7 @@ This is a simple banking system API built with Spring Boot. It includes features
 
 - **Spring Boot**: Framework for building Java applications.
 - **Spring Data JPA**: For data persistence.
-- **H2 Database**: In-memory database for testing.
+- **MySql Database**: In-memory database for testing.
 - **Maven**: Build and dependency management tool.
 
 ## API Endpoints
